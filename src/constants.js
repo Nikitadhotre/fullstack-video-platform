@@ -1,0 +1,1 @@
+export const DB_Name = "fullstack_video_platform"
